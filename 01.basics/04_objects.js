@@ -9,4 +9,4 @@ const course = {
 //destructing object
 const{courseInstructor : instructor} = course;
 // console.log(courseInstructor);
-console.log(instructor);
+// console.log(instructor);
